@@ -1,8 +1,19 @@
 let input = document.querySelector('.input');
 
 function insert(num){
-    input.textContent = input.textContent + num
-}
+    var signs = '+-*/,';
+    
+    
+    
+        if(signs.includes(num) && input.textContent.endsWith(num) ){
+    
+    
+        }else{
+            input.textContent = input.textContent + num;
+        }
+        
+    }
+
 
 function clean() {
     input.textContent = "";
