@@ -260,15 +260,15 @@ h3 {
 }
 
 .social{
-	margin-left: 90px;
-	width: 1000px;
-	max-height: 20vw;
-	display:flex;
-	align-items:center;
-	justify-content:center;
-        background-color: lightgreen; 
-	border-top-left-radius: 50px;
-	border-top-right-radius: 50px;
+	margin-left: -5%;
+    width: 100%;
+    max-height: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgreen;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
 }
 
   .social__icon{
