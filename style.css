@@ -1,6 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
-
-
 .containner {
 	width: 100%;
 }
@@ -53,11 +51,11 @@ max-height: 100%;
 
 .content{
     margin-top: 20%;
-    margin-left: 19em;
+    margin-left: 13%;
     background-color: lightgreen;
     border-radius: 20%;
     font-size: 25px;
-    width: 50%;
+    width: 80%;
     text-align: center;
 }
 
