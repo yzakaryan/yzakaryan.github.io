@@ -3,7 +3,7 @@ body{
 	background-image: url(IMG/images.jpg)
 }
 .imgp{
-	margin-left: 66%;
+	margin-left: 92%;
 	margin-top: -5%;
 	margin-bottom: 5px;
 	max-width: 100%;
@@ -52,7 +52,7 @@ body{
 .social{
 	margin-left: 0%;
     margin-top: 44em;
-    width: 127%;
+    width: 136%;
     max-height: 20vw;
     display: flex;
     align-items: center;
