@@ -3,6 +3,20 @@ body{
 	background-image: url(IMG/images.jpg)
 }
 
+.dasyntac{
+    font-weight: lighter;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	
+}
+
+.dasyntaci_payamanner{
+	justify-content: center;
+	background-color: #6cd875;
+	border-radius: 20%;
+	margin-top: 5%;
+	padding-left: 20%;
+}
+
 .imgp{
 	margin-left: 15%;
 	margin-top: 0%;
@@ -40,6 +54,7 @@ body{
 		font-weight: lighter;
 		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	}
+
 	
 /* social icon */
 .usersel{
