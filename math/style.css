@@ -53,14 +53,15 @@ body{
 
 .social{
 	margin-left: 0%;
-    width: 100%;
+    margin-top: 44em;
+    width: 136%;
     max-height: 20vw;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: lightgreen;
     border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
+    border-top-right-radius: 50px
 }
 
   .social__icon{
