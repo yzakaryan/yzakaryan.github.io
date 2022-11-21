@@ -70,7 +70,7 @@ body {
 	max-width: 100%;
     overflow-x: hidden;
     justify-content: center;
-    background-image: url(IMG/images.jpg);
+	background-color: #fffff6;
     user-select: none;
 	position: relative;
 	font-family: 'Noto Sans', sans-serif;
