@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
-body{
-	background-color: #fffff6;
-}
 
 .dasyntac{
     font-weight: lighter;
@@ -66,7 +63,7 @@ body{
 
 .social{
 	margin-left: 0%;
-    margin-top: 44em;
+    margin-top: -1em;
     width: 136%;
     max-height: 20vw;
     display: flex;
@@ -171,7 +168,7 @@ body {
     overflow-x: hidden;
     justify-content: center;
     font-family: "Lato", Arial, Helvetica, serif;
-    background-image: url(IMG/images.jpg);
+    background-color: #fffff6;
     font-size: 1em;
     user-select: none
 }

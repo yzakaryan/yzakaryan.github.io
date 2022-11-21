@@ -1,4 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+body{
+	background-color: #fffff6;
+}
+
+.dasyntac{
+    font-weight: lighter;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	
+}
+
+.dasyntaci_payamanner{
+	justify-content: center;
+	background-color: #6cd875;
+	margin-top: 5%;
+}
 
 .imgp{
 	margin-left: 15%;
@@ -37,6 +52,8 @@
 		font-weight: lighter;
 		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	}
+
+	
 /* social icon */
 .usersel{
 	user-select: all;
@@ -49,7 +66,7 @@
 
 .social{
 	margin-left: 0%;
-    margin-top: -1em;
+    margin-top: 44em;
     width: 136%;
     max-height: 20vw;
     display: flex;
